@@ -67,7 +67,7 @@ require (
 	github.com/redis/rueidis v1.0.61
 	github.com/seiflotfy/cuckoofilter v0.0.0-20240715131351-a2f2c23f1771
 	github.com/sony/gobreaker v1.0.0
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.1
 	github.com/thanos-io/objstore v0.0.0-20250804093838-71d60dfee488
 	github.com/thanos-io/promql-engine v0.0.0-20250731151205-1a520ea6a26d
 	github.com/uber/jaeger-client-go v2.30.0+incompatible
