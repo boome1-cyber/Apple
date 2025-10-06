@@ -96,7 +96,7 @@ require (
 	golang.org/x/time v0.12.0
 	google.golang.org/grpc v1.73.0
 	google.golang.org/grpc/examples v0.0.0-20230224211313-3775f633ce20
-	google.golang.org/protobuf v1.36.6
+	google.golang.org/protobuf v1.36.10
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 )
